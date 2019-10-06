@@ -19,6 +19,8 @@
     <item name="cpu.idle">4.44</item>
     <item name="cpu.awake">10.56</item>
     <array name="cpu.speeds">
+
+        <value>2002000</value>
         <value>1872000</value>
         <value>1794000</value>
         <value>1690000</value>
@@ -29,6 +31,7 @@
         <value>1144000</value>
         <value>1014000</value>
         <value>962000</value>
+        <value>904000</value>
         <value>845000</value>
         <value>757000</value>
         <value>676000</value>
